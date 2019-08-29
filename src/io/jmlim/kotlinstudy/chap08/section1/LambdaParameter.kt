@@ -1,4 +1,4 @@
-package io.jmlim.kotlinstudy.chap08
+package io.jmlim.kotlinstudy.chap08.section1
 
 /**
  * 람다식에서 제네릭 사용

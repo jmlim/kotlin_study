@@ -1,4 +1,4 @@
-package io.jmlim.kotlinstudy.chap08
+package io.jmlim.kotlinstudy.chap08.section1
 
 fun <T> find(a: Array<T>, Target: T): Int {
     for (i in a.indices) {

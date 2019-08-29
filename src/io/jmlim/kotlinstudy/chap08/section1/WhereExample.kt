@@ -1,4 +1,4 @@
-package io.jmlim.kotlinstudy.chap08
+package io.jmlim.kotlinstudy.chap08.section1
 
 interface InterfaceA
 interface InterfaceB

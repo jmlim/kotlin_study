@@ -1,4 +1,4 @@
-package io.jmlim.kotlinstudy.chap08
+package io.jmlim.kotlinstudy.chap08.section1
 
 class Calc<T : Number> {
     fun plus(arg1: T, arg2: T): Double {
